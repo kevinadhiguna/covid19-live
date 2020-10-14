@@ -6,7 +6,7 @@ Here are how this app looks :
 ### Landing Page
 - Light Theme (Default)
 <img src="https://raw.githubusercontent.com/kevinadhiguna/covid19-live/master/demo/1.lp-light.png" width="90%"></img> <br><br>
-- Dark Theme
+- Dark Theme <br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/covid19-live/master/demo/2.lp-dark.png" width="90%"></img>
 
 ### Stats of each country
