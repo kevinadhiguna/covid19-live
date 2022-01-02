@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  covid-19-live:
+    build: .
+    container_name: covid-19_ctr
+    ports:
+      - 3000:3000
