@@ -1,0 +1,8 @@
+### Git ###
+.git
+.gitignore
+.github
+
+### Project ###
+README.md
+demo
